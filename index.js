@@ -1,4 +1,3 @@
-//https://www.notion.so/Generating-a-random-username-with-node-bb7dee2dbed84e3790ce43083f22bcfa
 const generate = require("meaningful-string");
 const randomUsername = require("./generateRandomName")
 const express = require('express')
